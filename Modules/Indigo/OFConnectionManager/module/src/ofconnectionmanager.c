@@ -171,7 +171,7 @@ connection_retry_ms(void)
 /**
  * @brief Invoke connection attempts if needed
  *
- * @param cookie Ignored
+ * @param cookie Ignored -> KYUN???
  */
 
 static void
